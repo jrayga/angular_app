@@ -1,0 +1,18 @@
+.login {
+    height: 100%;
+
+    &_main-row {
+        width: 100%;
+    }
+
+    &__user-icon {
+        width  : 15%;
+        height : auto;
+        display: block;
+        margin : 0 auto;
+    }
+
+    &__login-btn {
+        width: 100%;
+    }
+}
